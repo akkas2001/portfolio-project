@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #212121;
+}
+h1{
+  background-color: cadetblue;
+  color: white;
+  text-align: center;
+  padding: 12px 20px ;
+}
